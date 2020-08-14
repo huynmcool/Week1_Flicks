@@ -1,11 +1,15 @@
 # Week1_Flicks
 
 Overview: Build a read-only movie listing app using the Movie Database API.
+
 The Movie Database API documentation
+
 Download the JSONView extension to view JSON better in your browser.
+
 Sample API Request: https://api.themoviedb.org/3/movie/now_playing?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed
 Trailers API response: https://api.themoviedb.org/3/movie/209112/trailers?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed
-Libraries: Completing this project, requires the use of the retrofit and the Glide libraries. Add dependencies for these libraries to the app/build.gradle file.
+Libraries: Completing this project, requires the use of the retrofit and the Glide libraries.
+Add dependencies for these libraries to the app/build.gradle file.
 Be sure to include a README containing a GIF walkthrough of your app.
 Use this README template in order to have a complete README.
 User Stories:
